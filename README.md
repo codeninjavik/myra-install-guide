@@ -88,9 +88,7 @@ More in [docs/troubleshooting.md](docs/troubleshooting.md).
 
 ## Links
 
-- Windows: <https://pypi.org/project/myra-ai-assistant/>
-- Linux: <https://pypi.org/project/myra-linux/>
-- Termux / text: <https://pypi.org/project/myra-termux/>
+
 - Support: <https://t.me/codeninjavik1>
 
 *Made by Vikash Kumar — [@codeninjavik](https://github.com/codeninjavik).*
